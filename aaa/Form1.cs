@@ -19,7 +19,11 @@ namespace aaa
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // コメントを追加
+            int a = 1;
+            int b = 2;
 
+            _ = a + b;
         }
     }
 }
